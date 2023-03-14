@@ -1,0 +1,18 @@
+{
+  "CONTRACT_ADDRESS": "0x29dFaca53e5F401F9B61De199502fA0E060330cf",
+  "SCAN_LINK": "https://polygonscan.com/address/0x29dfaca53e5f401f9b61de199502fa0e060330cf",
+  "NETWORK": {
+    "NAME": "Polygon",
+    "SYMBOL": "Matic",
+    "ID": 137
+  },
+  "NFT_NAME": "Annihilation NFT",
+  "SYMBOL": "ANNNFT",
+  "MAX_SUPPLY": 10000,
+  "WEI_COST": 2000000000000000000,
+  "DISPLAY_COST": 2,
+  "GAS_LIMIT": 285000,
+  "MARKETPLACE": "Opeansea",
+  "MARKETPLACE_LINK": "https://opensea.io/collection/annihilation-official",
+  "SHOW_BACKGROUND": true
+}
